@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-I had some difficulty with the spacing of the labels, however, I was able to find a solution.
+I had some difficulty with the spacing of the labels, however, I was able to find a solution. Also, when I was first testing out the app, the keyboard would appear, just like on a physical phone. However, when I changed the type of phone, the keyboard stopped appearing.
 
 ## License
 
